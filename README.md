@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -58,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
