@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
