@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        for i in range(32):
-            if n == 2**i:
+        for i in range(31): 
+           if n == 2**i:
                 return True
         return False
