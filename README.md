@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
