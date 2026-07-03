@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## Sliding Window
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MuhammadUsman-Khan/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
